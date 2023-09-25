@@ -5,7 +5,7 @@ boto3==1.16.52
 boto==2.49.0
 click==7.1.2
 furl==2.1.0
-gevent==20.12.1
+gevent==23.9.1
 jq==1.1.1
 json_delta>=2.0
 kubernetes==3.0.0
