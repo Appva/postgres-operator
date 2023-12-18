@@ -10,8 +10,7 @@ require (
 	github.com/r3labs/diff v1.1.0
 	github.com/sirupsen/logrus v1.7.0
 	github.com/stretchr/testify v1.6.1
-	golang.org/x/crypto v0.0.0-20201203163018-be400aefbc4c
-	golang.org/x/mod v0.4.0 // indirect
+	golang.org/x/crypto v0.17.0
 	gopkg.in/yaml.v2 v2.4.0
 	k8s.io/api v0.20.6
 	k8s.io/apiextensions-apiserver v0.20.6
